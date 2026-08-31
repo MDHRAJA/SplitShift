@@ -1,0 +1,10 @@
+# Godot-generated files
+.godot/
+
+# Imported cache files
+*.import
+
+# Local operating-system files
+.DS_Store
+Thumbs.db
+
